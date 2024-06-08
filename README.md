@@ -5,3 +5,4 @@
 # még egy konfliktus
 # teljesen mást írok
 # parancs1
+# help
