@@ -11,3 +11,4 @@
 # teszt
 # test01
 # test02
+# test02 local
