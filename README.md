@@ -9,5 +9,6 @@
 # Kolbász
 # tesztelés
 # teszt
-#test 03
-# test04
+# test02
+# test02 local
+
