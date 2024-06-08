@@ -7,3 +7,4 @@
 # parancs1
 # help
 # Kolbász
+# tesztelés
