@@ -6,3 +6,4 @@
 # teljesen mást írok
 # parancs1
 # help
+# Kolbász
